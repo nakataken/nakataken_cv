@@ -1,3 +1,15 @@
+Good Day! I'm Ken Nakata. 
+
+Here is the instruction to run this web page locally:
+1) Download/Clone this repository
+2) open the project in terminal and run "npm install" to install required packages and libraries
+3) run npm start
+
+Here is the link to access via live link:
+
+https://nakataken-cv.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

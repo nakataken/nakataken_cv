@@ -22,15 +22,13 @@ const Home = () => {
           <span className="box-border inline-block w-1 h-10 ml-2 -mb-2 bg-white md:-mb-4 md:h-16 animate-cursor will-change-transform"></span>
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm an Aspiring Developer
+          I'm a Web Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[800px]">
-          I'm graduating student from the Technological University of the
-          Philippines pursuing an undergraduate degree of Bachelor of Science in
-          Information Technology. I have focused to develop my skillsets
-          relating to Web Development, specifically with JavaScript framework
-          and Node.JS. Will grab any opportunities and am eager to learn
-          something new.
+          I focused my skills mainly on JavaScript libraries and frameworks
+          (Node.JS, React, Vue, and Angular). I am also a good team player and a
+          problem solver. Also, I am willing to adapt to the new technology and
+          am open-minded to the changes.
         </p>
       </div>
     </div>

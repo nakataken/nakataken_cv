@@ -22,7 +22,7 @@ const Home = () => {
           <span className="box-border inline-block w-1 h-10 ml-2 -mb-2 bg-white md:-mb-4 md:h-16 animate-cursor will-change-transform"></span>
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Aspiring Developer
+          I'm an Aspiring Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[800px]">
           I'm graduating student from the Technological University of the

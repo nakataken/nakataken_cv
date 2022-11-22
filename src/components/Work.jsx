@@ -27,6 +27,19 @@ const Work = () => {
             </p>
           </div>
         </div>
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
+          <h1 className="text-[#fff] text-3xl font-bold">
+            Junior Consultant - Junior Developer
+          </h1>
+          <div>
+            <p className="font-bold">CGI Inc.</p>
+            <p>2022 August - Present</p>
+            <p>
+              Works and develop website for internal client, and trained with
+              different skills (Angular, Node.JS, MySQL, Python, etc.)
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );

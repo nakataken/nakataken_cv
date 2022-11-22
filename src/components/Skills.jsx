@@ -6,7 +6,7 @@ import Node from "../assets/node.png";
 import Vue from "../assets/vue.png";
 import Nuxt from "../assets/nuxt.png";
 import ReactImg from "../assets/react.png";
-import Next from "../assets/next.png";
+import Angular from "../assets/angular.png";
 import TypeScript from "../assets/ts.png";
 import Mongo from "../assets/mongo.png";
 import MySQL from "../assets/mysql.png";
@@ -56,8 +56,8 @@ const Skills = () => {
             <p className="my-4">React.JS</p>
           </div>
           <div className="shadow-md shadow=[#040C16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Next} alt="next icon" />
-            <p className="my-4">Next.JS</p>
+            <img className="w-20 mx-auto" src={Angular} alt="angular icon" />
+            <p className="my-4">Angular</p>
           </div>
           <div className="shadow-md shadow=[#040C16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={TypeScript} alt="ts icon" />

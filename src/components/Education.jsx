@@ -1,4 +1,5 @@
 import React from "react";
+import AngularCOC from "../assets/Angular Course Udemy - COC.jpg";
 import ReactCOC from "../assets/React Course Udemy - COC.jpg";
 
 const Education = () => {
@@ -28,21 +29,20 @@ const Education = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
           <h1 className="text-[#fff] text-3xl font-bold">Achievements</h1>
           <div>
-            <p>Dean's Lister (1st Yr - 1st Sem)</p>
-            <p>Dean's Lister (1st Yr - 2nd Sem)</p>
-            <p>Dean's Lister (2nd Yr - 1st Sem)</p>
-            <p>Dean's Lister (2nd Yr - 2nd Sem)</p>
-            <p>Dean's Lister (3rd Yr - 1st Sem)</p>
-            <p>President's Lister (3rd Yr - 2nd Sem)</p>
-            <p>President's Lister (4th Yr - 1st Sem)</p>
+            <p>Dean's Lister (1st Yr - 1st Sem) - (3rd Yr - 1st Sem)</p>
+            <p>President's Lister (3rd Yr - 2nd Sem - (4th Yr - 2nd Sem)</p>
           </div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
-          <h1 className="text-[#fff] text-3xl font-bold">Certificate</h1>
+          <h1 className="text-[#fff] text-3xl font-bold">Certificates</h1>
           <div className="w-full gap-5 py-8">
             <div className="shadow-md shadow=[#040C16] hover:scale-110 duration-500">
+              <img className="w-80" src={AngularCOC} alt="react coc icon" />
+              <p className="m-8">Angular - Udemy</p>
+            </div>
+            <div className="shadow-md shadow=[#040C16] hover:scale-110 duration-500">
               <img className="w-80" src={ReactCOC} alt="react coc icon" />
-              <p className="m-8">Udemy - Certificate of Completion</p>
+              <p className="m-8">React - Udemy</p>
             </div>
           </div>
         </div>

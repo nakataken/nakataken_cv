@@ -13,6 +13,29 @@ const Work = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
           <h1 className="text-[#fff] text-3xl font-bold">
+            Application Developer - Japanese Bilingual
+          </h1>
+          <div>
+            <p className="font-bold">IBM</p>
+            <p>2023 May - Present</p>
+            <p>Works as Frontend Web Developer as a Japanese Bilingual</p>
+          </div>
+        </div>
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
+          <h1 className="text-[#fff] text-3xl font-bold">
+            Junior Consultant - Junior Developer
+          </h1>
+          <div>
+            <p className="font-bold">CGI Inc.</p>
+            <p>2022 August - 2023 April</p>
+            <p>
+              Works and develop website for internal client, and trained with
+              different skills (Angular, Node.JS, MySQL, Python, etc.)
+            </p>
+          </div>
+        </div>
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
+          <h1 className="text-[#fff] text-3xl font-bold">
             Full Stack Web Developer Intern
           </h1>
           <div>
@@ -24,19 +47,6 @@ const Work = () => {
               Works and develop website with both the front-end using
               nuxt.js/vue.js/ant-design/bootstrap/css/html, and back-end using
               node.js.
-            </p>
-          </div>
-        </div>
-        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 p-4">
-          <h1 className="text-[#fff] text-3xl font-bold">
-            Junior Consultant - Junior Developer
-          </h1>
-          <div>
-            <p className="font-bold">CGI Inc.</p>
-            <p>2022 August - Present</p>
-            <p>
-              Works and develop website for internal client, and trained with
-              different skills (Angular, Node.JS, MySQL, Python, etc.)
             </p>
           </div>
         </div>
